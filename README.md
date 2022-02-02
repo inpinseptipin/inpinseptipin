@@ -7,5 +7,5 @@ I am currently working on an Audio Library called AuxPort. Some people call it m
 The library aims to provide Utility functions to make audio software development a little bit easier. 
 
 # Contribution
-If anyone out there is interested in spending their time developing and implementing audio algorithms in a easy to use tools. Contact me on Github.
+If anyone out there is interested in spending their time developing and implementing DSP algorithms. Contact me on Github.
 
