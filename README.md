@@ -1,9 +1,9 @@
 # About me
-Inpinseptipin is a graduate student, pursuing Masters of Science in Music Engineering Technology. He is passionate about Digital Audio, Audio Software Development, Beatboxing and is curious about how research in audio is conducted and interested in products that enables music production for individual with no or little musical experience/exposure. 
+Inpinseptipin is a Doctoral Teaching Assistant, pursuing a PhD in Computer Science. He is passionate about Digital Audio, Audio Software Development, Beatboxing and is curious about how research in audio is conducted and interested in products that enables music production for individual with no or little musical experience/exposure. 
 
 He is an avid researcher with a focus on Virtual Analog Modelling, Deep Learning for Audio Synthesizers and DSP algorithm optimization. He had published his paper on "Fast Algorithms for Blackbox Modelling of Static Hammerstein Nonlinearities" and presented it at the 153rd Convention of AES (NYC).
 
-He currently works as a Graduate Teaching Assistant for the Music Engineering Department @ UM, where he is the secondary instructor for Audio Signal Processing II, Audio Signal Processing III and Transducer Theory course. He also facilitates and organizes the weekly forums hosted by the Music Engineering Department.
+He worked as a Graduate Teaching Assistant for the Music Engineering Department @ UM, where he is the secondary instructor for Audio Signal Processing II, Audio Signal Processing III and Transducer Theory course. He also facilitates and organizes the weekly forums hosted by the Music Engineering Department.
 
 
 
